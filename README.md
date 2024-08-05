@@ -1,22 +1,9 @@
-<div align="center">
+![image](https://github.com/ilopez-r/resources/blob/main/covers/cover-so_long-bonus.png?raw=true)
 
-<h1> 42 So_Long </h1>
+## Subject
+This is the [subject](https://github.com/ilopez-r/resources/blob/main/subjects/02_so_long.en.pdf) for this project.
 
-<a href="https://github.com/simon-zerisenay/42_So_Long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longm.png)</a>
-
-</div>
-<label>
-	<h2> Score </h2>	
-	<img alt="110" style="width: 100px;height: 70px" src="https://github.com/simon-zerisenay/simon-zerisenay/blob/main/110.png"/>
-</label>
-<h2>Introduction </h2>
-<p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/simon-zerisenay/42_So_Long?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/simon-zerisenay/42_So_Long?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/simon-zerisenay/42_So_Long?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/simon-zerisenay/42_So_Long?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/simon-zerisenay/42_So_Long?color=green" />
-</p>
+## Introduction
 
 Welcome to the 42 So_Long project! This project is part of the curriculum at 42 and focuses on creating a 2D game using the MinilibX, a simple graphic library provided by 42. So_Long is a game where the player navigates through a map, collects items, and avoids obstacles to reach the goal.
 
@@ -58,23 +45,3 @@ Run the game executable:
 				./so_long maps/map3.ber
 			
 <br/>
-
-Make sure you have the MinilibX library installed on your system. If it's not already installed, you can find the library and installation instructions in the project repository.
-
-<h2>Testing </h2>
-To test the game and validate its functionality, follow these steps:
-<br/>
-<br/>
-<div align="center">
-	<img alt="Game" src="https://github.com/simon-zerisenay/42_So_Long/blob/master/game.png" />
-</div>
-<br/>
-<br/>
-Launch the game using the installation steps mentioned above.
-Navigate through the map using the arrow keys or WASD keys.
-Ensure the player can move freely within the map and is restricted by walls and boundaries.
-Collect items on the map and verify that the score is updated accordingly.
-Reach the exit tile and confirm that the game ends with a win condition.
-Trigger any lose conditions (if implemented) and verify that the game ends accordingly.
-Test various edge cases, such as reaching invalid tiles or unexpected input, to ensure the game handles them gracefully.
-During testing, monitor the game's performance, responsiveness, and adherence to the specified game rules. Make adjustments and improvements as necessary to enhance the gameplay experience.
