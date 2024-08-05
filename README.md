@@ -38,10 +38,10 @@ Navigate to the project directory:
 Compile the project using the provided Makefile: 
 <br/>			
 
-					make
+					make bonus
 Run the game executable: 
 <br/>			
 
-				./so_long maps/map3.ber
+				./so_long_bonus maps/mapbonus.ber
 			
 <br/>
