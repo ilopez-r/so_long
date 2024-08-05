@@ -31,10 +31,10 @@ To install and run the So_Long project, follow these steps:
 
 Clone the project repository: 
 			
-			git clone https://github.com/your_username/42-so_long.git
+			git clone https://github.com/ilopez-r/so_long.git
 Navigate to the project directory: 
 			
-					cd 42-so_long
+					cd so_long
 Compile the project using the provided Makefile: 
 <br/>			
 
